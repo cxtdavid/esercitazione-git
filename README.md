@@ -1,1 +1,2 @@
 # esercitazione-git
+Buongiorno
